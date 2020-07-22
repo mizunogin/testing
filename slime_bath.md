@@ -8,11 +8,17 @@
 
 ## 影片與資源
 
-[Youtube影片: 小女孩與貓與史來姆入浴劑](https://youtu.be/P-XfCbVVjKE?t=337)
-
-[Twitter: 制服 X 史萊姆黏液](https://twitter.com/yurise_x/status/1259135451522162689)
-
-[Youtube影片: 第一場夏日史萊姆party紀錄短片](https://www.youtube.com/watch?v=zoqEFGsIGpk)
+- [南韓泥漿節](https://dq.yam.com/post.php?id=915)
+- [西班牙番茄節](https://www.tripresso.com/blog/2018/08/西班牙番茄節/)
+- [土耳其 橄欖油摔角](http://tkturkey.com/土耳其老祖先運動油脂摔跤上/)
+- [Youtube影片: 小女孩與貓與史來姆入浴劑](https://youtu.be/P-XfCbVVjKE?t=337)
+- [Twitter: 制服 X 史萊姆黏液](https://twitter.com/yurise_x/status/1259135451522162689)
+- [Twitter: 泥漿浴](https://twitter.com/wamlanta/status/1261765089201459202)
+- [Youtube影片: 第一場夏日史萊姆party紀錄短片](https://www.youtube.com/watch?v=zoqEFGsIGpk)
+- [R18圖：KIYO 浸泡](https://www.pixiv.net/artworks/77613287)
+- [R18圖：うる スライムに](https://www.pixiv.net/artworks/78694060)
+- [繪師：taramin](https://www.pixiv.net/users/1186456)
+- [繪師：silkyfriction](https://www.pixiv.net/users/4372252)
 
 ## 材料
 

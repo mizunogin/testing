@@ -12,23 +12,15 @@
 
 ## 影片與資源
 
-[Twitter: 日本黏液繭照片](https://twitter.com/nebachoco/status/1190994999350923264)
-
-[Twitter: 日本黏液繭製作與遊戲影片](https://twitter.com/waniuroko/status/1206581130813554688?s=20)
-
-[Twitter: 日本黏液繭照片（黑膠）](https://twitter.com/nebachoco/status/1208013539425734659?s=20)
-
-[Twitter: 日本黏液繭影片（黑膠）](https://twitter.com/nebachoco/status/1227620216516931585)
-
-[Twitter: 日本黏液繭影片（著衣）](https://twitter.com/nebachoco/status/1183631384478285826)
-
-[Youtube影片: 泡進227公斤的鍵盤史萊姆中](https://www.youtube.com/watch?v=f_KAUcRBlWs)
-
-[Twitter: 日本黏鼠板Play影片](https://twitter.com/B6uKyyp3bVTB1Dr/status/1217088671624527872)
+- [Twitter: 日本黏液繭照片](https://twitter.com/nebachoco/status/1190994999350923264)
+- [Twitter: 日本黏液繭製作與遊戲影片](https://twitter.com/waniuroko/status/1206581130813554688?s=20)
+- [Twitter: 日本黏液繭照片（黑膠）](https://twitter.com/nebachoco/status/1208013539425734659?s=20)
+- [Twitter: 日本黏液繭影片（黑膠）](https://twitter.com/nebachoco/status/1227620216516931585)
+- [Twitter: 日本黏液繭影片（著衣）](https://twitter.com/nebachoco/status/1183631384478285826)
 
 ## 材料
 
-日本的黏液繭配方雖然沒有公開，但是從Twitter上公開的照片可以推算出材料有 ケイコー糊 (PVA)＋ケイコーのり (糊化的澱粉) 4.3:1，然後加入眼藥水（硼砂）進行交聯反應，最後拌入刮鬍泡來產生純白且蓬鬆的效果。
+日本的黏液繭配方雖然沒有公開，但是從Twitter上公開的照片可以推算出材料有 [ケイコー糊](https://www.monotaro.com/g/01010482/) (糊化的澱粉)＋[ケイコーのり](https://www.monotaro.com/g/02653206/) (PVA) 4.3:1，然後加入眼藥水（硼砂）進行交聯反應，最後拌入刮鬍泡來產生純白且蓬鬆的效果。
 
 不過可惜不管是ケイコー糊還是ケイコーのり都不是台灣買得到的東西，從日本進口也太過昂貴了，看起來台灣已經不流行「漿衣服」，只好自己來了。PVA台灣長春化工有生產，也可以購買大罐膠水來進行調配，而糊化澱粉事實上就是「勾芡太白粉」，請參考[黏液浴](slime_bath.md)。硼砂可以從藥房購買，刮鬍泡則更好找了，你可以選擇你偏好的香味來挑選。由於每一種原物料的濃度配比不盡相同，所以自行調配記得要多準備一些來測試比例。
 
