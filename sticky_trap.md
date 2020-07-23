@@ -11,6 +11,7 @@
 
 - [短漫：巫鷹 巨大肉食植物](https://www.pixiv.net/artworks/75498979)
 - [短漫：巫鷹 スライムトラップ](https://www.pixiv.net/artworks/58654342)
+- [pixiv: higawariJelly](https://www.pixiv.net/users/691778)
 - [使用黏鼠膠的Hardcore玩法](https://twitter.com/B6uKyyp3bVTB1Dr/status/1217088671624527872)
 - [同上，露點R18注意](https://twitter.com/B6uKyyp3bVTB1Dr/status/1219177925762670594)
 - [Youtube影片: 泡進227公斤的鍵盤史萊姆中](https://www.youtube.com/watch?v=f_KAUcRBlWs)

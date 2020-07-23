@@ -60,17 +60,53 @@ Mizuno 2020/07/21
 * 拘束往往與放置Play也是一體兩面。持續地被刺激弱點無法逃脫，期待有人來解脫又害怕不知道會被怎麼樣對待的那種心境
 
 ### 實驗記錄
-  * [安全議題](safety.md)
-  * [繩縛 - 最好的入門書](https://24h.pchome.com.tw/books/prod/DJAM2O-A79533522)
-    * [吊縛](hanging.md) TBD
-  * 木乃伊 TBD
-  * 固化
-    * [石膏布](plaster_roll.md)
-    * [液態石膏](plaster_liquid.md) TBD
-    * [液態乳膠](latex_liquid.md) TBD
-  * [箱入 / 埋葬 / 醃漬](box.md) TBD
-    * 壁尻 TBD
-    * [試管培養皿](tube.md) TBD
+* [安全議題](safety.md)
+* [繩縛 - 最好的入門書](https://24h.pchome.com.tw/books/prod/DJAM2O-A79533522)
+  * [吊縛](hanging.md) TBD
+* 木乃伊 TBD
+* 固化
+  * [石膏布](plaster_roll.md)
+  * [液態石膏](plaster_liquid.md) TBD
+  * [液態乳膠](latex_liquid.md) TBD
+* [箱入 / 埋葬 / 醃漬](box.md) TBD
+  * 壁尻 TBD
+  * [試管培養皿](tube.md) TBD
+* [真空乳膠床](vacuumbed.md) TBD
+* [丸吞](vore.md) TBD
+
+
+## 布偶裝 / 毛裝 / 偶 / 膠衣 / 全包緊身衣 / 皮膜
+
+[毛裝、毛毛、獸裝](https://zh.wikipedia.org/zh-tw/%E5%85%BD%E8%A3%85)（fursuit）應該在台灣已經有相當的能見度了，是一種高度個人化的自我表現形式，雖然每個人的獸認同往往有滿大的不同，不過依然是相當活躍的大型群體。當然，毛裝本身為了外觀所以往往會犧牲舒適度與活動性，委託訂製的價格也往往是數萬到十數萬不等，雖然自行製作並非不可能，但是也需要投入近百小時的學習與常識，進入門檻並不低。
+
+布偶裝（plushsuit）則才剛開始流行，比起fursuit看起來更蓬更像布偶，價格動輒十幾二十萬相當驚人，[DHC](https://donthugcacti.com/)是很知名專注於plushsuit的品牌。
+
+[偶、吉祥物](https://en.wikipedia.org/wiki/Mascot)（mascot）則是另一個特殊領域，可愛的身形、有點笨拙的行動很能抓住人們的心。例如台灣吉祥物[熊讚](https://bravo.travel.taipei/)、日本[熊本熊](https://zh.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E7%86%8A)等，遊樂園、運動場等地方也常見他們的身影。多數吉祥物是由企業或大型組織擁有，因為設計、維運、行銷各方面都需要專業也很燒錢，所以很少有個人會選擇往這一塊發展。比起毛裝著重的「個人化」，偶更專注於「實現角色個性」「觀眾與互動」上。
+
+膠衣(latexsuit)一般指的是乳膠材質的緊身衣，一般價格昂貴
+
+[全包緊身衣（Zentai）](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%8C%85%E7%B7%8A%E8%BA%AB%E8%A1%A3)往往包含了萊卡、尼龍等材質，是一個比較廣的說法。Zentai廣泛使用於戲劇演出上（柯南的黑衣人就是經典，歐美超級英雄也時常以Zentai設計表現身材，例如蜘蛛人），愛好獸裝的人有時也會購買搭配的Zentai（[ForFun](https://www.forfun.store/spandex/petsuit)）作為遊戲或是內裡使用
+
+而皮膜似乎是「另一層皮膚」的代名詞，有著「追求另一層不同皮膚的觸感」與「塑造變身成另一個自我」的意味，例如 [pixiv: 田代憂](https://www.pixiv.net/users/67922)、[pixiv: m00n](https://www.pixiv.net/users/31504075)
+
+### 台灣的公開社群
+
+我知道的不多，如果你知道的話請跟我說，我更新上來
+
+- [獸相關：infurnity獸無限 專注於聚會與同樂](https://www.infurnity.com/)
+- [獸相關：以茶會毛FurryTeaParty 專注於聚會同樂](https://www.furryteaparty.com/)
+- [獸相關：furrymosa獸摩莎 專注於同人創作](https://furrymosa.gjs.tw/)
+- [獸相關：人外&獸人only 專注於同人創作](https://zh-tw.facebook.com/pages/category/Fictional-Character/%E4%BA%BA%E5%A4%96%E7%8D%B8%E4%BA%BAonly-800643299972693/)
+- [獸相關：獸化實驗教室 不定時開辦毛裝製作入門課程](https://www.facebook.com/makefur/)
+- [皮膜相關：隱身於世推廣委員會](https://www.facebook.com/1314club/)
+
+### 實驗記錄
+
+- 毛裝製作筆記 TBD
+- [布偶裝](plushsuit.md) TBD
+- [四足跪裝](bitchsuit.md) TBD
+- [偶](mascot.md) TBD
+- [膠衣](latexsuit.md) TBD
 
 
 
