@@ -43,12 +43,11 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 * 也有喜歡玩五顏六色泥巴的玩法、特別喜歡食物的玩法（巧克力醬或蜂蜜或派）、或是骯髒的玩法（野外泥沼）
 
 ### 實驗記錄
-  * [黏液浴](slime_bath.md)
-  * [黏液繭](slime_cocoon.md)
-  * [黏液水牢](slime_dungeon.md)
-  * [黏鼠陷阱 - TBD](sticky_trap.md)
-  * 醃漬 TBD
-  * 丸吞 TBD
+* [黏液浴](slime_bath.md)
+* [黏液繭](slime_cocoon.md)
+* [黏液水牢](slime_dungeon.md)
+* [黏鼠陷阱 - TBD](sticky_trap.md)
+* [丸吞](vore.md) TBD
 
 
 
@@ -89,7 +88,7 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 
 [偶、吉祥物](https://en.wikipedia.org/wiki/Mascot)（mascot）則是另一個特殊領域，可愛的身形、有點笨拙的行動很能抓住人們的心。例如台灣吉祥物[熊讚](https://bravo.travel.taipei/)、日本[熊本熊](https://zh.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E7%86%8A)等，遊樂園、運動場等地方也常見他們的身影。多數吉祥物是由企業或大型組織擁有，因為設計、維運、行銷各方面都需要專業也很燒錢，所以很少有個人會選擇往這一塊發展。比起毛裝著重的「個人化」，偶更專注於「實現角色個性」「觀眾與互動」上。
 
-膠衣(latexsuit)一般指的是乳膠材質的緊身衣，一般價格昂貴
+膠衣(latexsuit)一般指的是乳膠材質的緊身衣，一般價格昂貴，[LatexCatfish](http://www.latexcatfish.com/xcart/home.php)價格很便宜不過往往訂單要排到半年之後
 
 [全包緊身衣（Zentai）](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%8C%85%E7%B7%8A%E8%BA%AB%E8%A1%A3)往往包含了萊卡、尼龍等材質，是一個比較廣的說法。Zentai廣泛使用於戲劇演出上（柯南的黑衣人就是經典，歐美超級英雄也時常以Zentai設計表現身材，例如蜘蛛人），愛好獸裝的人有時也會購買搭配的Zentai（[ForFun](https://www.forfun.store/spandex/petsuit)）作為遊戲或是內裡使用
 
@@ -148,6 +147,7 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 * 最簡易的玩法[「能量果凍」](urethra_jelly.md)
 * 基礎滅菌與安全操作 TBD
 * 受傷與感染症的處理 TBD
+* [導尿術](imgs/urethra_tunneling.pdf)
 
 
 
