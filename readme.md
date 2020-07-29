@@ -9,8 +9,14 @@
 
 祝大家都能夠駕馭自己的慾望，為己所用，而無需內耗對抗。
 
-Mizuno 2020/07/21
+mizuno@stickysli.me 2020/07/21
 
+
+#### 如何參與討論 / 協助修正筆記？
+
+如果單純想聊聊，歡迎加入[Telegram群組](https://t.me/joinchat/KONUQRSrvh6JHvfTNrlYMw)，我們有不定時的實驗活動與討論。Telegram是一套更加安全隱私的即時通訊軟體。
+
+Github是一個開放式的環境，對於有錯誤或需要討論的地方，你可以建立[Issue](https://github.com/mizunogin/testing/issues)來通知我，亦或是直接建立[Pull Request](https://gitbook.tw/chapters/github/pull-request.html)協助修改
 
 
 ## 普遍級 / 輕度互動

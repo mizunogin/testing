@@ -33,7 +33,7 @@
 
 - [乖乖粒](https://www.ruten.com.tw/item/show?21939036710056)
 - [沙、土、卵石](https://www.ruten.com.tw/user/index00.php?s=goingto168)
-- [水麥芽23kg鐵桶原裝](https://shopee.tw/M86%E6%B0%B4%E9%BA%A5%E8%8A%BD5kg%E5%8F%A6%E5%94%AE%E6%B7%A8%E9%87%8D23kg%E9%90%B5%E6%A1%B6-i.3534891.18780885)
+- [水麥芽23kg](http://stickysli.me/shop.html#mousetrap)
 
 ## 工具
 
