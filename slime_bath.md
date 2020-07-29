@@ -6,6 +6,8 @@
 
 若是愛好觸感的朋友，穿Zenati或乳膠衣下來玩也是很讚的體驗！
 
+![](imgs/slimegoo.jpg)
+
 ## 影片與資源
 
 - [南韓泥漿節](https://dq.yam.com/post.php?id=915)
