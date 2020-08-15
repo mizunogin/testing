@@ -104,7 +104,7 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
   * [石膏布](plaster_roll.md)
   * [液態石膏](plaster_liquid.md) TBD
   * [液態乳膠](latex_liquid.md) TBD
-* [箱入 / 埋葬 / 醃漬](box.md) TBD
+* [箱入 / 埋葬 / 醃漬](box.md)
   * 壁尻 TBD
   * [試管培養皿](tube.md) TBD
 * [真空乳膠床](vacuumbed.md) TBD
@@ -178,9 +178,11 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 
 ### 實驗記錄
 * 最簡易的玩法[「能量果凍」](urethra_jelly.md)
-* 基礎滅菌與安全操作 TBD
+* [尿道插入入門](urethra_insertion.md) by Kuba
 * 受傷與感染症的處理 TBD
 * [導尿術](imgs/urethra_tunneling.pdf)
+* [間歇性自我導尿法](https://www.chimei.org.tw/main/cmh_department/59012/info/7530/A7530101.html)
+* [導尿設備是否需滅菌、或只需清潔？](http://www.chimei.org.tw/main/cmh_department/53000/nurse_epaper/nurse10106/menu01.html)
 
 
 

@@ -8,6 +8,10 @@
 
 ![](imgs/slimegoo.jpg)
 
+## Tags
+
+ネバネバ、ねばねば
+
 ## 影片與資源
 
 - [南韓泥漿節](https://dq.yam.com/post.php?id=915)
