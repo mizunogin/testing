@@ -99,7 +99,8 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 ### 實驗記錄
 * [繩縛 - 最好的入門書](https://24h.pchome.com.tw/books/prod/DJAM2O-A79533522)
   * [吊縛](hanging.md) TBD
-* 木乃伊 TBD
+* [木乃伊](tape_mummy.md) 
+  * [麻繩木乃伊](hemp_mummy.md) 
 * 固化
   * [石膏布](plaster_roll.md)
   * [液態石膏](plaster_liquid.md) TBD
@@ -179,6 +180,7 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 ### 實驗記錄
 * 最簡易的玩法[「能量果凍」](urethra_jelly.md)
 * [尿道插入入門](urethra_insertion.md) by Kuba
+* [膀胱注水膨脹](bladder_inflation.md) by Kuba
 * 受傷與感染症的處理 TBD
 * [導尿術](imgs/urethra_tunneling.pdf)
 * [間歇性自我導尿法](https://www.chimei.org.tw/main/cmh_department/59012/info/7530/A7530101.html)
