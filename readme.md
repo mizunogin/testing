@@ -110,6 +110,7 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
   * [試管培養皿](tube.md) TBD
 * [真空乳膠床](vacuumbed.md) TBD
 * [丸吞](vore.md) TBD
+  * [充氣大鯨魚](inflatble_whale.md)
 
 
 布偶裝 / 毛裝 / 偶 / 膠衣 / 全包緊身衣 / 皮膜
@@ -161,7 +162,7 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 
 ### 實驗記錄
   * 清潔 TBD
-  * [灌腸 / 膨腹](inflation.md) TBD
+  * [灌腸 / 膨腹](inflation.md) 
   * [產卵](eggs.md) TBD
 
 
