@@ -1,8 +1,12 @@
 真空床 vacuum bed
 ===
+TBD
 
 [真空床](https://en.wikipedia.org/wiki/Vacuum_bed)，一般來說歸類在強制拘束的範疇，但是也是很多乳膠控所愛好
 
+想買一張，還在研究中
+
+- [EuroCatsuits](http://www.eurocatsuits.com/latex-vacbed.php?la=en&currency=EUR)
 
 ## 資源
 

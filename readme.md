@@ -76,6 +76,7 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 ### 實驗記錄
 * [黏液浴](slime_bath.md)
 * [黏液繭](slime_cocoon.md)
+* [Messy](messy.md)
 * [黏液水牢](slime_dungeon.md)
 * [黏鼠陷阱 - TBD](sticky_trap.md)
 * [丸吞](vore.md) TBD

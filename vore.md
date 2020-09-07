@@ -14,6 +14,8 @@
 ![](imgs/vorecafe/06.png)
 ![](imgs/vorecafe/07.png)
 
+如果有興趣自己做一隻鯨魚，請參考渡貍的[這篇](inflatable_whale.md)，也有美國訂做的[商店](https://www.etsy.com/listing/797731277/3-meter-inflatable-pvc-whale-suit-made?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=inflatable+whale+suit&ref=sr_gallery-1-2&organic_search_click=1&cns=1)
+
 ## tags
 
 

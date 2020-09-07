@@ -63,6 +63,7 @@
 - [充氣肛塞](https://find.ruten.com.tw/s/?q=%E5%85%85%E6%B0%A3%E8%82%9B%E5%A1%9E) 基於灌入後可能會忍不住想排出來，一個好的充氣塞子可以幫你塞得緊緊實實滴水不漏，出門都不怕（？）
 - [充氣兼注入肛塞](https://www.ruten.com.tw/item/show?21930208777039) 可以同時邊塞邊灌的好玩具，如果身邊沒幫手，這個東西可以讓你不用手忙腳亂處理管子滑出來的問題
   - ![](imgs/inflation05.jpg)
+  - [另一種](https://www.blackstyle.de/lshop,showdetail,1597339737-5224,e,1597339737-5224,dildos.analduschen,600349900398,,Tshowrub--dildos.analduschen,.htm)
 
 ### 清潔與其他
 - 臉盆或其他容器 
