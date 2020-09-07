@@ -1,14 +1,22 @@
-messy.md
+messy / gunge
 ===
-<說明，有趣在什麼地方？>
+歐洲常稱為Gunge, 美國常稱為slime，指的是那些濕濕黏黏，軟軟的東西。英國著名的Nickelodeon TV show中大量的在益智遊戲裡面使用Gunge噴灑小遊戲中落敗的玩家，而逐漸形成了特殊的興趣圈。生日對壽星砸鮮奶油或刮鬍泡應該可以算是最廣泛一種體現。
+
+Gunge / Messy不一定與性慾有關，很多時候更接近惡作劇 / 被惡作劇的打打鬧鬧
+
+與日本偏好觸感與拘束類的[黏液浴](slime_bath.md)、[黏液繭](slime_cocoon.md)有一些微妙的差別，但總體來說是有互相涵蓋的。我會覺得Messy更著重於「惡作劇」「被弄的髒兮兮」「懲罰」「節目效果」的屬性，而[黏液浴](slime_bath.md)更偏向參與者互動與觸感、[黏液繭](slime_cocoon.md)更偏向拘束感。
+
+Gunge / Messy往往會有很多小遊戲的橋段，也許是快問快答，也許是全能體能王那種遊戲場地。
+
+Gunge / Messy往往會使用顏色很鮮豔的黏液，適合拍攝影片紀錄
 
 關鍵字
 ---
-messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), 
+messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
 
 歷史
 ---
-<老綜藝節目？>
+Nickelodeon TV show是很早以前就使用Gunge在益智節目中作為懲罰的戲劇效果，之後美國與日本也跟進有不少相關作品，只不過到了2020的現在，已經很少看到這類的作品了。
 
 影片/資源
 ---
@@ -16,6 +24,7 @@ messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge),
 - [Top Gunge](http://topgunge.com)
 - [影片：Messy World](https://messyworld.net/gallerypage00.html)
 - [candycustard](https://www.candycustard.com)
+- [superpants](http://www.superpants.net/index.html)
 - [Youtube aphrovish](https://www.youtube.com/channel/UCpTBWU8N5-VBLE7KDxDi3VA)
 
 原料
