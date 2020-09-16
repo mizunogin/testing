@@ -77,6 +77,7 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 * [黏液浴](slime_bath.md)
 * [黏液繭](slime_cocoon.md)
 * [Messy / Gunge](messy.md)
+* [金粉、銀粉、雕像化](gold_silver_state.md)
 * [黏液水牢](slime_dungeon.md)
 * [黏鼠陷阱 - TBD](sticky_trap.md)
 * [丸吞](vore.md) TBD
@@ -162,7 +163,7 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 * 膨腹：少部分的玩家對於「肚子像孕婦一樣膨脹起來」有著愛好，也許是「灌滿滿」的進階？不過一般到這個程度，不管是空氣還是液體，都會進入到胃裏，可能不是那麼舒適了。
 
 ### 實驗記錄
-  * 清潔 TBD
+  * [清潔](body_clean.md)
   * [灌腸 / 膨腹](inflation.md) 
   * [產卵](eggs.md) TBD
 
