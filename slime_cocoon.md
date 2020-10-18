@@ -6,6 +6,8 @@
 
 黏液繭畢竟是比較花功夫的玩法，很多人也會擔心清潔上的困難度，不過目前不管是製作方式與清潔都已經成熟了，有興趣的話可以從[這裡](http://stickysli.me/shop.html#slime-cocoon)訂購「黏液繭」
 
+黏液繭由於本身的高黏稠度，單人可以享受被拘束黏著的快感，而多人時則會比較偏向「打打鬧鬧、互相攻擊」的模式，除了製作比較困難以外，適合任意人數與各種年齡層的朋友。
+
 ## Tags
 
 粘著拘束、Vore、丸吞、ネバネバ、ねばねば
@@ -17,6 +19,8 @@
 - [Twitter: 日本黏液繭照片（黑膠）](https://twitter.com/nebachoco/status/1208013539425734659?s=20)
 - [Twitter: 日本黏液繭影片（黑膠）](https://twitter.com/nebachoco/status/1227620216516931585)
 - [Twitter: 日本黏液繭影片（著衣）](https://twitter.com/nebachoco/status/1183631384478285826)
+
+![](imgs/slime_cacoon.png)
 
 ## 材料
 
