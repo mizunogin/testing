@@ -14,7 +14,7 @@ mizuno@stickysli.me 2020/07/21
 
 #### 如何參與討論 / 協助修正筆記？
 
-如果單純想聊聊，歡迎加入[Telegram群組](https://t.me/joinchat/KONUQRSrvh6JHvfTNrlYMw)，我們有不定時的實驗活動與討論。Telegram是一套更加安全隱私的即時通訊軟體。
+如果單純想聊聊，歡迎加入[Messy.tw Telegram群組](https://t.me/joinchat/A0isxRU4NFKUpEEWqvwokw)找Mizuno，Telegram是一套更加安全隱私的即時通訊軟體。（Update: R18的討論群組限邀請制、加入群組視同同意遵守[群組規範](rules_default.md)）
 
 Github是一個開放式的環境，對於有錯誤或需要討論的地方，你可以建立[Issue](https://github.com/mizunogin/testing/issues)來通知我，亦或是直接建立[Pull Request](https://gitbook.tw/chapters/github/pull-request.html)協助修改
 
@@ -30,6 +30,7 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 ### 實驗記錄
   * 身體碰觸 TBD
   * [黏液浴](slime_bath.md)
+  * [身體清潔](body_clean.md)
 
 
 
@@ -163,7 +164,7 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 * 膨腹：少部分的玩家對於「肚子像孕婦一樣膨脹起來」有著愛好，也許是「灌滿滿」的進階？不過一般到這個程度，不管是空氣還是液體，都會進入到胃裏，可能不是那麼舒適了。
 
 ### 實驗記錄
-  * [清潔](body_clean.md)
+  * [後門清潔](body_clean.md#後門清潔)
   * [灌腸 / 膨腹](inflation.md) 
   * [產卵](eggs.md) TBD
 
