@@ -80,6 +80,7 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 * [黏液浴](slime_bath.md)
 * [黏液繭](slime_cocoon.md)
 * [Messy / Gunge](messy.md)
+  * [砸派](messy_pie.md)
 * [金粉、銀粉、雕像化](gold_silver_state.md) TBD
 * [黏液水牢](slime_dungeon.md)
 * [黏鼠陷阱 - TBD](sticky_trap.md)
