@@ -8,6 +8,9 @@
 
 ![](imgs/slimegoo.jpg)
 
+
+有去Hunt（台北Gay bar）的朋友應該也有聽說過 [黏液摔角](https://www.youtube.com/watch?v=0Wzqk2XvZbo) ，跟土耳其的塗油摔角有點類似不過更趣味一些，只是舉辦的時間很短暫所以要多去詢問
+
 ## Tags
 
 ネバネバ、ねばねば
@@ -20,6 +23,7 @@
 - [Youtube影片: 小女孩與貓與史來姆入浴劑](https://youtu.be/P-XfCbVVjKE?t=337)
 - [Twitter: 制服 X 史萊姆黏液](https://twitter.com/yurise_x/status/1259135451522162689)
 - [Twitter: 泥漿浴](https://twitter.com/wamlanta/status/1261765089201459202)
+- [Youtube: 白濁史來母池](https://www.youtube.com/watch?v=MfIhnkdeZsw)
 - [Youtube影片: 第一場夏日史萊姆party紀錄短片](https://www.youtube.com/watch?v=zoqEFGsIGpk)
 - [R18圖：KIYO 浸泡](https://www.pixiv.net/artworks/77613287)
 - [R18圖：うる スライムに](https://www.pixiv.net/artworks/78694060)
@@ -40,6 +44,10 @@
 - 可食用 - 不牽絲 - 白濁：[謎之液體](http://stickysli.me/shop.html#starch-slippy-white)
 - 非食用 - 牽絲 - 透明：[史萊姆黏液](http://stickysli.me/shop.html#pva-slippy)
 - 非食用 - 牽絲 - 黑色：[瀝青](http://stickysli.me/shop.html#pva-slippy-black)
+
+Update 2021/03/08: 發現了便宜的[日本20L業務用潤滑液A-one](https://www.ruten.com.tw/item/show?21918263996073#info)！ 沒有保存期限且體積不大，值得囤個幾箱（？）。連結可能失效，可以去拍賣上搜尋「20公升 潤滑液」
+
+另外看到日本的[超便宜20L](https://www.amazon.co.jp/%E6%A5%AD%E5%8B%99%E7%94%A820L%E3%80%81%E6%A0%BC%E5%AE%89-%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%9F%E3%83%87%E3%82%A3%E3%82%A2%E3%83%A0-%E3%83%A9%E3%83%96%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%9C%E3%83%87%E3%82%A3%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/dp/B08LVBS9YS/ref=sr_1_53?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+%E6%A5%AD%E5%8B%99%E7%94%A8+20&qid=1615196565&s=hpc&sr=1-53)
 
 ## 調味與調色
 
