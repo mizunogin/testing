@@ -81,6 +81,7 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 * [黏液繭](slime_cocoon.md)
 * [Messy / Gunge](messy.md)
   * [砸派](messy_pie.md)
+  * [food play 玩食物](messy_foodplay.md)
 * [金粉、銀粉、雕像化](gold_silver_state.md) 
   * [乳膠漆](emulsion_paint.md)
 * [黏液水牢](slime_dungeon.md)

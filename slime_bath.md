@@ -49,6 +49,8 @@ Update 2021/03/08: 發現了便宜的[日本20L業務用潤滑液A-one](https://
 
 另外看到日本的[超便宜20L](https://www.amazon.co.jp/%E6%A5%AD%E5%8B%99%E7%94%A820L%E3%80%81%E6%A0%BC%E5%AE%89-%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%9F%E3%83%87%E3%82%A3%E3%82%A2%E3%83%A0-%E3%83%A9%E3%83%96%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%9C%E3%83%87%E3%82%A3%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/dp/B08LVBS9YS/ref=sr_1_53?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+%E6%A5%AD%E5%8B%99%E7%94%A8+20&qid=1615196565&s=hpc&sr=1-53)
 
+Update 2021/07/10: 美國Youtuber的做法，泰勒粉+J-Lube+顏料 https://twitter.com/DucTapeDummy/status/1292999905737400321?s=20
+
 ## 調味與調色
 
 太白粉本身是沒有什麼味道的半透明液體，想要五彩繽紛的史萊姆黏液，可以去食品材料行購買[食用色素](https://www.ruten.com.tw/item/show?21304167136677)，或者添加「活性碳」得到[黑色黏液](https://www.google.com/search?q=changed&source=lnms&tbm=isch&sa=X)、「麵粉」得到迷樣的白濁液體，很適合另一種妄想情境。

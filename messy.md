@@ -41,6 +41,11 @@ Nickelodeon TV show是很早以前就使用Gunge在益智節目中作為懲罰�
 - [candycustard](https://www.candycustard.com)
 - [Gunge Master](http://www.gungemaster.com/samples/gm-2f89/i2.html)
 
+talaat (部分R18)
+* [紙黏土](https://www.talaat.net/index.php?route=product/product&path=77&product_id=843) 
+* [玩泥巴](https://www.talaat.net/index.php?route=product/category&path=78_85)   
+* [黑色史萊姆](https://www.talaat.net/index.php?route=product/product&path=77&product_id=241)
+
 原料
 ---
 - https://zh.wikipedia.org/wiki/聚丙烯酸
