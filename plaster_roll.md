@@ -7,9 +7,9 @@
 
 ## 影片與圖
 
-[逸星 犬隻石膏木乃伊](https://twitter.com/yistarthedevil/status/1219106398375751680?s=20)
-
-[石膏木乃伊A片](https://www.talaat.net/index.php?route=product/product&path=72_84&product_id=181)
+- [逸星 犬隻石膏木乃伊](https://twitter.com/yistarthedevil/status/1219106398375751680?s=20)
+- [twitter Hong](https://twitter.com/Hong92093215/status/1418747451050106881?s=20)
+- [石膏木乃伊A片](https://www.talaat.net/index.php?route=product/product&path=72_84&product_id=181)
 
 ## 注意事項
 * 石膏布鋪墊的層數直接影響到石膏的拘束效果，只有一層搭配層瓦疊法基本上是很容易破壞的，硬核玩家建議三層起跳

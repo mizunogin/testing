@@ -32,6 +32,8 @@ Nickelodeon TV show是很早以前就使用Gunge在益智節目中作為懲罰�
 - [Youtube: fursuit Norfolk Fox's "Retirement" Prank: The Sequel](https://youtu.be/rUrjr59OL5Y)
 - [Gunge the maid](https://www.deviantart.com/sunflower-kun/art/Gunge-the-Maid-758829170)
 - [JOJO SIWA’S KIDS’ CHOICE AWARDS FULL PERFORMANCE!! +EPIC SLIME!!](https://youtu.be/kJMaSse8uoM) *留意節目最後10秒*
+- [100 Mystery Buttons… But Every Button is SLIME!](https://www.youtube.com/watch?v=NJqeASHJS_M)
+- [100 Mystery Buttons But Only One Lets You Escape...](https://www.youtube.com/watch?v=ll_YF6ZR4EE)
 
 影片工作室/銷售
 
@@ -45,6 +47,9 @@ talaat (部分R18)
 * [紙黏土](https://www.talaat.net/index.php?route=product/product&path=77&product_id=843) 
 * [玩泥巴](https://www.talaat.net/index.php?route=product/category&path=78_85)   
 * [黑色史萊姆](https://www.talaat.net/index.php?route=product/product&path=77&product_id=241)
+
+twitter
+* <https://mobile.twitter.com/ksksYoung>
 
 原料
 ---
