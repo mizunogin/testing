@@ -37,8 +37,8 @@ messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
 
 影像參考
 ---
-[10公升正常濃度](https://www.youtube.com/watch?v=JXgWYTWutvk)
-[高濃度](https://www.youtube.com/watch?v=bMyQbJ87R_g)
+* [10公升正常濃度](https://www.youtube.com/watch?v=JXgWYTWutvk)
+* [高濃度](https://www.youtube.com/watch?v=bMyQbJ87R_g)
 
 成分揭露
 ---
