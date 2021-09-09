@@ -43,7 +43,7 @@
 
 ## 材料
 
-* [黏液浴](slime_bath.md)或[黏液繭](slime_cacoon.md)使用的黏液皆可，當然效果會略有不同。我偏愛使用[麻糬](http://stickysli.me/shop.html#starch-slime)搭配[史萊姆黏液](http://stickysli.me/shop.html#pva-slippy)，麻糬會帶來大塊狀的顆粒觸感，而黏液提供很棒的貼合感。
+* [黏液浴](slime_bath.md)或[黏液繭](slime_cacoon.md)使用的黏液皆可，當然效果會略有不同。我偏愛使用[麻糬](http://stickysli.me/shop.html#starch-slime)搭配[黏液](http://stickysli.me/shop.html#pva-slippy)，麻糬會帶來大塊狀的顆粒觸感，而黏液提供很棒的貼合感。
 * 黏液用量我覺得20kg左右是適合的，如果想感受更多的貼合感，也許可以先從10kg加起，不夠再加。
 
 ## 作法

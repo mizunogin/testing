@@ -4,6 +4,8 @@
 
 可以視想要的濃度適當增減水量，要從較高濃度稀釋到較低濃度時請花點時間耐心攪拌
 
+[訂購由此去](shop.html)
+
 關鍵字
 ---
 messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo

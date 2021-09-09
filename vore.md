@@ -16,6 +16,7 @@
 
 如果有興趣自己做一隻鯨魚，請參考渡貍的[這篇](inflatable_whale.md)，也有美國訂做的[商店](https://www.etsy.com/listing/797731277/3-meter-inflatable-pvc-whale-suit-made?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=inflatable+whale+suit&ref=sr_gallery-1-2&organic_search_click=1&cns=1)
 
+
 ## tags
 
 
@@ -25,6 +26,8 @@
 - [pixiv: かなとふ](https://www.pixiv.net/users/19116803)
 - [pixiv: もちネコ](https://www.pixiv.net/users/4241)
 - [pixiv: higawariJelly](https://www.pixiv.net/users/691778)
+- [Twitter: 充氣睡袋](https://twitter.com/BeiLeInflatabl2/status/1435102345445011462)
+- [Twitter: 各種充氣玩具](https://twitter.com/BeiLeInflatabl2)
 
 ## 具爭議的屬性
 
