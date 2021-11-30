@@ -11,12 +11,16 @@
 
 ## 影片與資源
 
+- [真人黏鼠膠實驗、液態流沙、埋土裡50hr](https://www.facebook.com/watch/?extid=CL-UNK-UNK-UNK-AN_GK0T-GK1C&v=940449879896044)
 - [短漫：巫鷹 巨大肉食植物](https://www.pixiv.net/artworks/75498979)
 - [短漫：巫鷹 スライムトラップ](https://www.pixiv.net/artworks/58654342)
 - [pixiv: higawariJelly](https://www.pixiv.net/users/691778)
 - [使用黏鼠膠的Hardcore玩法](https://twitter.com/B6uKyyp3bVTB1Dr/status/1217088671624527872)
 - [同上，露點R18注意](https://twitter.com/B6uKyyp3bVTB1Dr/status/1219177925762670594)
 - [Youtube影片: 泡進227公斤的鍵盤史萊姆中](https://www.youtube.com/watch?v=f_KAUcRBlWs)
+- [補鳥膠1](https://twitter.com/ksUBCTujjCYjZXA/status/1458983880208228352)
+- [補鳥膠2](https://twitter.com/ksUBCTujjCYjZXA/status/1458984216159723520?s=20)
+- [補鳥膠3](https://twitter.com/ksUBCTujjCYjZXA/status/1459084509362950147)
 
 ## 注意事項
 
@@ -51,6 +55,8 @@
 離開時防塵墊可能會黏在腳上，可以橫向抹一下來避免沾黏
 
 需要準備雙層大塑膠袋來收拾防塵墊，最後一個離開的人可以順手把防塵墊卷在自己身上，一路拖著到浴室
+
+[更多清潔說明](slime_cleaning.md)
 
 ## 材料
 

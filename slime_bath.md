@@ -21,6 +21,7 @@
 - [西班牙番茄節](https://www.tripresso.com/blog/2018/08/西班牙番茄節/)
 - [土耳其 橄欖油摔角](http://tkturkey.com/土耳其老祖先運動油脂摔跤上/)
 - [Youtube影片: 小女孩與貓與史來姆入浴劑](https://youtu.be/P-XfCbVVjKE?t=337)
+- [Youtube影片: Squishy Slime Baff !!! Super Gross](https://www.youtube.com/watch?v=Kkb7xdXINLc)
 - [Twitter: 制服 X 史萊姆黏液](https://twitter.com/yurise_x/status/1259135451522162689)
 - [Twitter: 泥漿浴](https://twitter.com/wamlanta/status/1261765089201459202)
 - [Youtube: 白濁史來母池](https://www.youtube.com/watch?v=MfIhnkdeZsw)
@@ -67,6 +68,8 @@ Update 2021/07/10: 美國Youtuber的做法，泰勒粉+J-Lube+顏料 https://twi
 如果真的弄的很濃無法流入下水道，可以考慮 1.沖水稀釋 或 2.用手捧起集中於桶子，然後送廚餘回收/沖馬桶
 
 切記有油脂的材質（如巧克力醬）不可沖入水管，會造成很難纏的堵塞
+
+[更多清潔說明](slime_cleaning.md)
 
 ## 其他注意事項
 
