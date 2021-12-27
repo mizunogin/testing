@@ -15,6 +15,8 @@
 
 怎麼讓石膏表面最終變得光滑漂亮，目前還不知道怎麼做
 
+[GG翻模/Clone a willy](http://wukcsoft.blogspot.com/2019/07/copy-dick.html?m=1)
+
 
 ## 媒體
 
