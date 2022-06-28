@@ -6,7 +6,7 @@ Inst-Sticky 是一種進階的史萊姆，他會製造出極度黏稠，宛如�
 
 Inst-Sticky 除了帶給你強烈的感官衝擊外，也需要特別留意在清潔上面會變得更黏滑，需要更多時間與精力清潔，建議先用過 Inst-Slime 的經驗之後再來體驗 Inst-Sticky。
 
-[訂購由此去](https://forms.gle/Z32i8WMWXdbzqyUWA)
+[訂購表單](https://forms.gle/Z32i8WMWXdbzqyUWA) / [全家貨到付款](https://famistore.famiport.com.tw/287273/index.php?action=fmall_10755895)
 
 關鍵字
 ---
@@ -15,7 +15,7 @@ messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
 
 注意事項
 ---
-* 此配方乃化妝品級原料，請勿食用
+* 此配方乃無毒化妝品級原料，不慎攝取毋須擔心，但請勿食用
 * 濕濕滑滑的環境有摔跤的可能性，請確保安全
 * 若使用染料有沾染衣物的可能性
 * 避免燙傷，請勿使用熱水調製
@@ -45,8 +45,9 @@ messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
   * 水溫請選擇你希望接觸在身上的溫度，不可使用熱水避免燙傷與結塊，洗澡的溫度最佳
   * 若希望濃一點，或者容器不足希望後續稀釋，最低應使用5公升的清水
   * 請避免使用已經黏稠的黏液再次加入粉包，這會不易攪散導致結塊
+  * 若欲加入調色包，請於現在加入攪勻
 * 用手或工具攪拌水使其旋轉
-* 打開 Inst-Sticky 包裝，撒入水中同時持續攪拌兩分鐘左右讓其充分吸水膨脹，即可享用
+* 打開 Inst-Sticky 包裝，撒入水中 *同時持續攪拌兩分鐘左右* 讓其充分吸水膨脹（不充分的攪拌將會造成結塊！），即可享用
 
 
 濃度 / 溫度調節
@@ -56,7 +57,9 @@ messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
 
 影像參考
 ---
-<https://www.youtube.com/watch?v=73wP3FcXGG8>
+* [調製教學](https://www.youtube.com/watch?v=yAI-2X-r7X4)
+* [10公升正常濃度](https://www.youtube.com/shorts/73wP3FcXGG8)
+* [15公升黏液](https://www.youtube.com/watch?v=Pty_CGPV224)
 
 身體清潔
 ---

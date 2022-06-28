@@ -4,7 +4,7 @@ StickySlime 即溶史萊姆入浴劑 Inst-Slime 10L
 
 Inst-Slime 入浴劑會帶來滑滑又黏糊糊的體驗，預設濃度近似泥漿或粥，有著適當的厚度又不至於阻礙互動，適合打打鬧鬧、嬉戲互動的場景。
 
-[訂購由此去](https://forms.gle/Z32i8WMWXdbzqyUWA)
+[訂購表單](https://forms.gle/Z32i8WMWXdbzqyUWA) / [全家貨到付款](https://famistore.famiport.com.tw/287273/index.php?action=fmall_10755895)
 
 關鍵字
 ---
@@ -13,7 +13,7 @@ messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
 
 注意事項
 ---
-* 此配方乃化妝品級原料，請勿食用，食品級原料版本即將推出
+* 此配方乃無毒化妝品級原料，不慎攝取毋須擔心，但請勿食用
 * 濕濕滑滑的環境有摔跤的可能性，請確保安全
 * 若使用染料有沾染衣物的可能性
 * 避免燙傷，請勿使用熱水調製
@@ -42,6 +42,7 @@ messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
   * 水溫請選擇你希望接觸在身上的溫度，不可使用熱水避免燙傷與結塊，洗澡的溫度最佳
   * 若希望濃一點，或者容器不足希望後續稀釋，最低應使用5公升的清水
   * 請避免使用已經黏稠的黏液再次加入粉包，這會不易攪散導致結塊
+  * 若欲加入調色包，請於現在加入攪勻
 * 用手或工具攪拌水使其旋轉
 * 打開 Inst-Slime 包裝，將小包粉末以乾淨溫水在馬克杯中泡開，若有其他入浴劑可同時加入泡開
 * 將大包粉末撒入10公升水中攪拌均勻
@@ -55,6 +56,7 @@ messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
 
 影像參考
 ---
+* [調製教學](https://www.youtube.com/watch?v=J1HeCSjYNaI)
 * [10公升正常濃度](https://www.youtube.com/watch?v=JXgWYTWutvk)
 * [高濃度](https://www.youtube.com/watch?v=bMyQbJ87R_g)
 
