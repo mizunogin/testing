@@ -22,6 +22,10 @@
 
 ![](imgs/slime_cacoon.png)
 
+## 玩家心得
+
+- [黏糊糊的史萊姆Play by Raki](https://www.pupraki.com/blog/gunge-slime-play/)
+
 ## 材料
 
 日本的黏液繭配方雖然沒有公開，但是從Twitter上公開的照片可以推算出材料有 [ケイコー糊](https://www.monotaro.com/g/01010482/) (糊化的澱粉)＋[ケイコーのり](https://www.monotaro.com/g/02653206/) (PVA) 4.3:1，然後加入眼藥水（硼砂）進行交聯反應，最後拌入刮鬍泡來產生純白且蓬鬆的效果。
