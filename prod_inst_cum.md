@@ -1,5 +1,7 @@
 StickySlime 即溶史萊姆便利包 Inst-Cum 1L
 ===
+Google Translate for [English](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_cum.md?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=zh-TW&_x_tr_pto=wapp) / [Japanese](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_cum.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
+
 感謝你使用 StickySlime 的 Inst-Cum 入浴劑便利包，不同於普通入浴劑，我們致力於 濕濕、滑滑、黏黏的全新體驗，讓史萊姆放大你的觸覺，不管是 派對嬉戲、伴侶互動、或是獨自感受那滑潤又充滿吸力的觸感，全新的世界等待您的探索！
 
 有如淋上煉乳的甜點，大量注入而溢出的白濁液體是在許多色色創作中的經典風味。Inst-Cum不止忠實呈現了精液的質感與外觀，食品級的材質也可以安心使用於各種情境，讓你輕鬆實現不可能的妄想！

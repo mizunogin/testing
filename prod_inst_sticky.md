@@ -1,5 +1,7 @@
 StickySlime 即溶史萊姆入浴劑 Inst-Sticky 10L
 ===
+Google Translate for [English](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_sticky.md?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=zh-TW&_x_tr_pto=wapp) / [Japanese](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_sticky.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
+
 感謝你使用 StickySlime 的 Inst-Sticky 入浴劑，不同於普通入浴劑，我們致力於 濕濕、滑滑、黏黏的全新體驗，讓史萊姆放大你的觸覺，不管是 派對嬉戲、伴侶互動、或是獨自感受那滑潤又充滿吸力的觸感，全新的世界等待您的探索！
 
 Inst-Sticky 是一種進階的史萊姆，他會製造出極度黏稠，宛如黏鼠膠的強大黏塊，身陷其中有如被捕捉的小鳥，可以充分感受到史萊姆在身上的阻力，與肢體交互間美麗的牽絲。同時加水後又會立刻變得高度滑溜，一種配方兩種享受！
