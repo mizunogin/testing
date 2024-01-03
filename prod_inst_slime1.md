@@ -1,14 +1,10 @@
-StickySlime 即溶史萊姆便利包 Inst-Cum 1L
+StickySlime 即溶史萊姆入浴劑 Inst-Slime 1L
 ===
-Google Translate for [English](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_cum.md?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=zh-TW&_x_tr_pto=wapp) / [Japanese](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_cum.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
+Google Translate for [English](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_slime1.md?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=zh-TW&_x_tr_pto=wapp) / [Japanese](prod_inst_slime1jp.md)
 
-感謝你使用 StickySlime 的 Inst-Cum 入浴劑便利包，不同於普通入浴劑，我們致力於 濕濕、滑滑、黏黏的全新體驗，讓史萊姆放大你的觸覺，不管是 派對嬉戲、伴侶互動、或是獨自感受那滑潤又充滿吸力的觸感，全新的世界等待您的探索！
+感謝你使用StickySlime的 Inst-Slime 入浴劑，不同於普通入浴劑，我們致力於 濕濕、滑滑、黏黏的全新體驗，讓史萊姆放大你的觸覺，不管是 派對嬉戲、伴侶互動、或是獨自感受那滑潤又充滿吸力的觸感，全新的世界等待您的探索！
 
-有如淋上煉乳的甜點，大量注入而溢出的白濁液體是在許多色色創作中的經典風味。Inst-Cum不止忠實呈現了精液的質感與外觀，食品級的材質也可以安心使用於各種情境，讓你輕鬆實現不可能的妄想！
-與Inst-Muchi相比，Inst-Cum更容易調製，更接近真實的色澤與觸感，亦可以混合兩者自由調整想要的黏稠感。本品不易造成腸胃不適。
-
-成分說明
-食品膠. 糖. 氫化植物油. 乾酪素納. 磷酸氫二鉀. 脂肪酸甘油脂. 乳酸硬脂酸鈉. 二氧化矽. β-胡蘿蔔素
+Inst-Slime 入浴劑會帶來滑滑又黏糊糊的體驗，預設濃度近似泥漿或粥，有著適當的厚度又不至於阻礙互動，適合打打鬧鬧、嬉戲互動的場景。
 
 [訂購表單](https://forms.gle/Z32i8WMWXdbzqyUWA) / [全家貨到付款](https://famistore.famiport.com.tw/287273/index.php?action=fmall_10755895)
 
@@ -16,60 +12,64 @@ Google Translate for [English](https://github-com.translate.goog/mizunogin/testi
 ---
 messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
 
+
 注意事項
 ---
-* 此配方乃食品級原料，但並非食品，請勿刻意食用
+* 此配方乃無毒化妝品級原料，不慎攝取毋須擔心，但請勿食用
 * 濕濕滑滑的環境有摔跤的可能性，請確保安全
 * 若使用染料有沾染衣物的可能性
 * 避免燙傷，請勿使用熱水調製
 * 粉塵容易飛揚，倒入時請輕柔，推薦戴上口罩避免吸入
-* 請盡量使用準確的水量
+* 請盡量使用準確的水量，若沒有辦法量測，請從較少的水量調製完成後再加水調整濃度
 * 開封後盡量一次使用完畢，若想分次調製請將粉保存在密閉容器如真空袋，避免受潮影響效果
 * 已經調製的史萊姆需一次用完，請勿留存以避免衛生上的疑慮
 
 準備
 ---
 * 一個可以玩水的空間（浴室、充氣泳池、或是已經做好防塵防水準備的空間）
-* 一個 1250 ~ 2000cc 的容器，亦可以使用常見的1250cc保特瓶
+* 塑膠量桶（或任何你可以估計1公升水量的工具）
+* 承裝史萊姆的水桶（建議大於2公升）
 * 清潔準備
-  * 毛巾（遊戲中沾到臉上時可以抹掉、亦可鋪在地面防滑、洗澡時亦可取代菜瓜布發揮奇效）
+  * 毛巾（遊戲中沾到臉上時可以抹掉、亦可鋪在地面防滑）
   * 沐浴乳或肥皂
   * 菜瓜布或沐浴球
   * 選用：刷地用的刷子（可以用菜瓜布替代）
   * 選用：清潔劑：過碳酸鈉（刷地、洗衣可有效去除黏液）
 
+
 調製指南
 ---
-若準備為水桶：
 * 準備乾淨溫水1公升於水桶中
   * 水溫請選擇你希望接觸在身上的溫度，不可使用熱水避免燙傷與結塊，洗澡的溫度最佳
   * 若希望濃一點，或者容器不足希望後續稀釋，最低應使用0.5公升的清水
   * 請避免使用已經黏稠的黏液再次加入粉包，這會不易攪散導致結塊
-  * 用手或工具攪拌水使其旋轉，打開 Inst-Cum 包裝，將粉末撒入1公升水中攪拌均勻，即可享用
-
-若準備為保特瓶：
-* 將一半（500cc）的水倒入空瓶，並將 Inst-Cum 便利包 倒入瓶內
-  * 鎖上瓶蓋，以搖泡沫紅茶一般的動作，用力搖晃使粉末盡量均勻分散。
-  * 搖晃時可以感覺到水聲迅速從清脆變成混濁，代表搖晃已經完成
-  * 打開瓶蓋，將剩餘的水加入後，再次搖晃均勻，即可享用
+  * 若欲加入調色包，請於現在加入攪勻
+* 用手或工具攪拌水使其旋轉
+* 打開 Inst-Slime 包裝，將粉末撒入1公升水攪拌均勻，持續攪拌約三分鐘至有黏稠感，即可享用
 
 
 濃度 / 溫度調節
 ---
-* 如果希望濃稠一些：按照調配指南進行，桶內改0.5公升的水，不建議少於0.5公升
+* 如果希望濃稠一些：按照調配指南進行，桶內改0.5公升的水，不過不建議少於0.5公升
 * 如果希望淡一點/熱一點：按照調配指南進行，並在充分稠化後加入熱水稀釋至期待的濃度/溫度
 
 影像參考
 ---
-* [調製教學 與 標準濃度示範](https://www.youtube.com/watch?v=ABRzNcCkIrY)
+* [調製教學](https://youtu.be/iKenvCKG3Pg)
+* [1公升正常濃度](https://www.youtube.com/watch?v=JXgWYTWutvk)
+* [高濃度](https://www.youtube.com/watch?v=bMyQbJ87R_g)
+* [DEMO](https://www.youtube.com/watch?v=EV84TQo9vKY)
 
 
 身體清潔
 ---
-* Inst-cum相當容易從身上沖走，使用菜瓜布、沐浴球等多孔材質可以有效刮除。
+* 普遍來說建議預留10-30分鐘的洗澡與清潔時間
+* 先用手刮除黏在身上的大塊史萊姆與黏液，可以大幅簡化清洗的難度
+* 若黏滑的史萊姆附著於皮膚上，使用菜瓜布、沐浴球等多孔材質可以有效刮除。
 * 當沐浴球本身也變得黏糊時，沖水揉搓將黏液洗去後即可繼續使用
 * 肥皂、沐浴乳可以有效避免已經洗下來的黏液黏回身體
 * 溫熱的清水可以加速沖走黏液
+* 若環境允許，保留一個裝滿溫熱水的浴缸用於搓洗身體可以很快速地清除身上的黏液
 
 善後
 ---
@@ -82,4 +82,6 @@ messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
 
 [更多清潔說明](slime_cleaning.md)
 
-
+成分揭露
+---
+羥乙基纖維素HEC

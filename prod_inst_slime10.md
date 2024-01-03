@@ -1,12 +1,10 @@
-StickySlime 即溶史萊姆入浴劑 Inst-Muchi 1L
+StickySlime 即溶史萊姆入浴劑 Inst-Slime 10L
 ===
-Google Translate for [English](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_muchi.md?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=zh-TW&_x_tr_pto=wapp) / [Japanese](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_muchi.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
+[English](./prod_inst_slime10en.md) / Google Translate for [Japanese](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_slime10.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
 
-感謝你使用 StickySlime 的 Inst-Muchi 入浴劑，不同於普通入浴劑，我們致力於 濕濕、滑滑、黏黏的全新體驗，讓史萊姆放大你的觸覺，不管是 派對嬉戲、伴侶互動、或是獨自感受那滑潤又充滿吸力的觸感，全新的世界等待您的探索！
+感謝你使用StickySlime的 Inst-Slime 入浴劑，不同於普通入浴劑，我們致力於 濕濕、滑滑、黏黏的全新體驗，讓史萊姆放大你的觸覺，不管是 派對嬉戲、伴侶互動、或是獨自感受那滑潤又充滿吸力的觸感，全新的世界等待您的探索！
 
-Inst-Muchi 本身為食品級材質（玉米糖膠），比起化妝品級原料更安全，突破性的調製方式，讓你可以快速在20分鐘內，使用容易取得的飲料水瓶完成安心的史萊姆。
-
-注意：玉米糖膠可能含有麩質，如果您有麩質過敏等情況，請避免使用
+Inst-Slime 入浴劑會帶來滑滑又黏糊糊的體驗，預設濃度近似泥漿或粥，有著適當的厚度又不至於阻礙互動，適合打打鬧鬧、嬉戲互動的場景。
 
 [訂購表單](https://forms.gle/Z32i8WMWXdbzqyUWA) / [全家貨到付款](https://famistore.famiport.com.tw/287273/index.php?action=fmall_10755895)
 
@@ -17,7 +15,7 @@ messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
 
 注意事項
 ---
-* 此配方乃食品級原料，但並非食品，請勿刻意食用
+* 此配方乃無毒化妝品級原料，不慎攝取毋須擔心，但請勿食用
 * 濕濕滑滑的環境有摔跤的可能性，請確保安全
 * 若使用染料有沾染衣物的可能性
 * 避免燙傷，請勿使用熱水調製
@@ -26,14 +24,13 @@ messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
 * 開封後盡量一次使用完畢，若想分次調製請將粉保存在密閉容器如真空袋，避免受潮影響效果
 * 已經調製的史萊姆需一次用完，請勿留存以避免衛生上的疑慮
 
-
 準備
 ---
 * 一個可以玩水的空間（浴室、充氣泳池、或是已經做好防塵防水準備的空間）
-* 一個 1250 ~ 2000cc 的瓶子，例如便利商店購買的飲料保特瓶
-* 約 1000cc 上下的飲用水
+* 塑膠量桶（或任何你可以估計5-10公升水量的工具）
+* 承裝史萊姆的水桶（建議大於15公升）
 * 清潔準備
-  * 毛巾（遊戲中沾到臉上時可以抹掉、亦可鋪在地面防滑、洗澡時亦可取代菜瓜布發揮奇效）
+  * 毛巾（遊戲中沾到臉上時可以抹掉、亦可鋪在地面防滑）
   * 沐浴乳或肥皂
   * 菜瓜布或沐浴球
   * 選用：刷地用的刷子（可以用菜瓜布替代）
@@ -42,23 +39,26 @@ messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
 
 調製指南
 ---
-* 準備 1000cc 飲用水，與 1250~2000cc 的空保特瓶
+* 準備乾淨溫水10公升於水桶中
   * 水溫請選擇你希望接觸在身上的溫度，不可使用熱水避免燙傷與結塊，洗澡的溫度最佳
-  * 請勿使用高溫的水，可能導致瓶子皺縮（保特瓶PET耐溫上限60度）
+  * 若希望濃一點，或者容器不足希望後續稀釋，最低應使用5公升的清水
   * 請避免使用已經黏稠的黏液再次加入粉包，這會不易攪散導致結塊
-  * 若希望調色，可以於此時加入，請注意色料一包為10公升用量，請依你想要的顏色決定用量。
-* 將一半（500cc）的水倒入空瓶，並將 Inst-Muchi便利包 倒入瓶內
-* 鎖上瓶蓋，以搖泡沫紅茶一般的動作，用力搖晃使粉末盡量均勻分散。
-* 搖晃時可以感覺到水聲迅速從清脆變成混濁，代表搖晃已經完成，小顆粒約在3mm以下為佳
-* 打開瓶蓋，將剩餘的水加入後，再次搖晃均勻
-* 此時史萊姆還會有少量結塊，放置等待15分鐘，即可享用
-* 冰箱放置數小時可以進一步減少結塊
+  * 若欲加入調色包，請於現在加入攪勻
+* 用手或工具攪拌水使其旋轉
+* 打開 Inst-Slime 包裝，將粉末撒入10公升水攪拌均勻，持續攪拌約三分鐘至有黏稠感，即可享用
 
+
+濃度 / 溫度調節
+---
+* 如果希望濃稠一些：按照調配指南進行，桶內改五公升的水，不過不建議少於五公升
+* 如果希望淡一點/熱一點：按照調配指南進行，並在充分稠化後加入熱水稀釋至期待的濃度/溫度
 
 影像參考
 ---
-- [1L標準濃度](https://youtu.be/YrZcgy7R-Io)
-- [調製教學](https://youtu.be/7FCezn0RlE8)
+* [調製教學](https://youtu.be/iKenvCKG3Pg)
+* [10公升正常濃度](https://www.youtube.com/watch?v=JXgWYTWutvk)
+* [高濃度](https://www.youtube.com/watch?v=bMyQbJ87R_g)
+* [DEMO](https://www.youtube.com/watch?v=EV84TQo9vKY)
 
 
 身體清潔
@@ -84,5 +84,4 @@ messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
 
 成分揭露
 ---
-玉米糖膠（三仙膠）
-
+羥乙基纖維素HEC
