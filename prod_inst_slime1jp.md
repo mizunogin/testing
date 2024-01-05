@@ -1,10 +1,12 @@
 StickySlime Inst-Slime 入浴剤お試し 1L
 ===
-Google Translate for [English](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_slime1.md?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=zh-TW&_x_tr_pto=wapp) / [Chinese](prod_inst_slime1.md)
+Google Translate for [English](https://raw-githubusercontent-com.translate.goog/mizunogin/testing/master/prod_inst_slime1.md?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=zh-TW&_x_tr_pto=wapp) / [Chinese](prod_inst_slime1.md)
 
 StickySlimeのInst-Sticky入浴剤をご利用いただきありがとうございます。通常の入浴剤とは異なり、私たちは湿った、すべる、くっつくといった全く新しい体験を提供することに力を注いでいます。スライムがあなたの触感を最大限に引き立て、パーティーの遊び、パートナーとの交流、または一人で感じるなめらかで引き寄せるような触感、これら新しい世界があなたの探求を待っています！
 
 Inst-Slime 入浴剤は滑らかでヌメヌメの体験を提供します。標準濃度は泥濘や粥に近く、適度な厚みがありながらも触れ合いを妨げません。遊ぶに最適です。
+
+[ご注文](https://forms.gle/35kck9bTKbRLnpZP8)
 
 注意事項 
 ---

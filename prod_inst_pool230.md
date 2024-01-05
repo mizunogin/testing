@@ -1,6 +1,6 @@
 StickySlime 即溶史萊姆入浴劑 Inst-Pool 組合包 230L
 ===
-Google Translate for [English](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_pool230.md?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=zh-TW&_x_tr_pto=wapp) / [Japanese](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_pool230.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
+Google Translate for [English](https://raw-githubusercontent-com.translate.goog/mizunogin/testing/master/prod_inst_pool230.md?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=zh-TW&_x_tr_pto=wapp) / [Japanese](https://raw-githubusercontent-com.translate.goog/mizunogin/testing/master/prod_inst_pool230.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
 
 感謝你使用StickySlime的 Inst-Pool 入浴劑，不同於普通入浴劑，我們致力於 濕濕、滑滑、黏黏的全新體驗，讓史萊姆放大你的觸覺，不管是 派對嬉戲、伴侶互動、或是獨自感受那滑潤又充滿吸力的觸感，全新的世界等待您的探索！
 
@@ -10,7 +10,7 @@ Wohoo! 夢想中的史萊姆池終於來了！Inst-Pool組合包 可以一次創
 
 包裝內容：兩包 Inst-Pool 115L ＋ 一包 Inst-Sticky 10L ＋ 三包 染色劑
 
-[訂購表單](https://forms.gle/Z32i8WMWXdbzqyUWA) / [全家貨到付款](https://famistore.famiport.com.tw/287273/index.php?action=fmall_10755895)
+[訂購表單](https://forms.gle/Z32i8WMWXdbzqyUWA) / [Order here](https://forms.gle/35kck9bTKbRLnpZP8) / [全家貨到付款](https://famistore.famiport.com.tw/287273/index.php?action=fmall_10755895)
 
 關鍵字
 ---

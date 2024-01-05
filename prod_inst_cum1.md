@@ -1,6 +1,6 @@
 StickySlime 即溶史萊姆便利包 Inst-Cum 1L
 ===
-[English](prod_inst_cum1en.md) / Google Translate for [Japanese](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_cum1.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
+[English](prod_inst_cum1en.md) / Google Translate for [Japanese](https://raw-githubusercontent-com.translate.goog/mizunogin/testing/master/prod_inst_cum1.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
 
 感謝你使用 StickySlime 的 Inst-Cum 入浴劑便利包，不同於普通入浴劑，我們致力於 濕濕、滑滑、黏黏的全新體驗，讓史萊姆放大你的觸覺，不管是 派對嬉戲、伴侶互動、或是獨自感受那滑潤又充滿吸力的觸感，全新的世界等待您的探索！
 
@@ -10,7 +10,7 @@ StickySlime 即溶史萊姆便利包 Inst-Cum 1L
 成分說明
 食品膠. 糖. 氫化植物油. 乾酪素納. 磷酸氫二鉀. 脂肪酸甘油脂. 乳酸硬脂酸鈉. 二氧化矽. β-胡蘿蔔素
 
-[訂購表單](https://forms.gle/Z32i8WMWXdbzqyUWA) / [全家貨到付款](https://famistore.famiport.com.tw/287273/index.php?action=fmall_10755895)
+[訂購表單](https://forms.gle/Z32i8WMWXdbzqyUWA) / [Order here](https://forms.gle/35kck9bTKbRLnpZP8) / [全家貨到付款](https://famistore.famiport.com.tw/287273/index.php?action=fmall_10755895)
 
 關鍵字
 ---
@@ -33,7 +33,7 @@ messy, [gunge](https://en.m.wikipedia.org/wiki/Gunge), slime, goo
 * 一個 1250 ~ 2000cc 的容器，亦可以使用常見的1250cc保特瓶
 * 約 1000cc 上下的飲用水
 * 清潔準備
-  * 毛巾（遊戲中沾到臉上時可以抹掉、亦可鋪在地面防滑、洗澡時亦可取代菜瓜布發揮奇效）
+  * 毛巾（遊戲中沾到臉上時可以抹掉、亦可鋪在地面防滑）
   * 沐浴乳或肥皂
   * 菜瓜布或沐浴球
   * 選用：刷地用的刷子（可以用菜瓜布替代）

@@ -1,12 +1,12 @@
 StickySlime 即溶史萊姆入浴劑 Inst-Slime 1L
 ===
-Google Translate for [English](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_slime1.md?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=zh-TW&_x_tr_pto=wapp) / [Japanese](prod_inst_slime1jp.md)
+Google Translate for [English](https://raw-githubusercontent-com.translate.goog/mizunogin/testing/master/prod_inst_slime1.md?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=zh-TW&_x_tr_pto=wapp) / [Japanese](prod_inst_slime1jp.md)
 
 感謝你使用StickySlime的 Inst-Slime 入浴劑，不同於普通入浴劑，我們致力於 濕濕、滑滑、黏黏的全新體驗，讓史萊姆放大你的觸覺，不管是 派對嬉戲、伴侶互動、或是獨自感受那滑潤又充滿吸力的觸感，全新的世界等待您的探索！
 
 Inst-Slime 入浴劑會帶來滑滑又黏糊糊的體驗，預設濃度近似泥漿或粥，有著適當的厚度又不至於阻礙互動，適合打打鬧鬧、嬉戲互動的場景。
 
-[訂購表單](https://forms.gle/Z32i8WMWXdbzqyUWA) / [全家貨到付款](https://famistore.famiport.com.tw/287273/index.php?action=fmall_10755895)
+[訂購表單](https://forms.gle/Z32i8WMWXdbzqyUWA) / [Order here](https://forms.gle/35kck9bTKbRLnpZP8) / [全家貨到付款](https://famistore.famiport.com.tw/287273/index.php?action=fmall_10755895)
 
 關鍵字
 ---

@@ -1,6 +1,6 @@
 StickySlime 即溶史萊姆入浴劑 Inst-Muchi 1L
 ===
-[English](prod_inst_muchi1en.md) / Google Translate for [Japanese](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_muchi1.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
+[English](prod_inst_muchi1en.md) / Google Translate for [Japanese](https://raw-githubusercontent-com.translate.goog/mizunogin/testing/master/prod_inst_muchi1.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
 
 感謝你使用 StickySlime 的 Inst-Muchi 入浴劑，不同於普通入浴劑，我們致力於 濕濕、滑滑、黏黏的全新體驗，讓史萊姆放大你的觸覺，不管是 派對嬉戲、伴侶互動、或是獨自感受那滑潤又充滿吸力的觸感，全新的世界等待您的探索！
 
@@ -8,7 +8,7 @@ Inst-Muchi 本身為食品級材質（玉米糖膠），比起化妝品級原料
 
 注意：玉米糖膠可能含有麩質，如果您有麩質過敏等情況，請避免使用
 
-[訂購表單](https://forms.gle/Z32i8WMWXdbzqyUWA) / [全家貨到付款](https://famistore.famiport.com.tw/287273/index.php?action=fmall_10755895)
+[訂購表單](https://forms.gle/Z32i8WMWXdbzqyUWA) / [Order here](https://forms.gle/35kck9bTKbRLnpZP8) / [全家貨到付款](https://famistore.famiport.com.tw/287273/index.php?action=fmall_10755895)
 
 關鍵字
 ---

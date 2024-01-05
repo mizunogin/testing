@@ -1,6 +1,6 @@
 StickySlime Inst-Cum 1L
 ===
-[Chinese](prod_inst_cum1.md) / Google Translate for [Japanese](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_cum1.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
+[Chinese](prod_inst_cum1.md) / Google Translate for [Japanese](https://raw-githubusercontent-com.translate.goog/mizunogin/testing/master/prod_inst_cum1.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
 
 Thanks for choosing StickySlime bath powder. We focus on wet, slippery, sticky, messy feelings, let slimes amplify your sense! Not only suitable for messy parties and partner interaction, it is also has a great time for solo play!
 
@@ -9,6 +9,7 @@ The inst-cum is much easier to prepare then inst-muchi. You can also mix both to
 
 Material: food-grade gel, sugar, Hydrogenated vegetable oil, Sodium Casein, Dipotassium phosphate, fatty acid glycerides, Sodium lactate stearate, silica, β-carotene
 
+[Order here](https://forms.gle/35kck9bTKbRLnpZP8)
 
 Notice
 ---

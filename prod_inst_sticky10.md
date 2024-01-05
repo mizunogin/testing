@@ -1,6 +1,6 @@
 StickySlime 即溶史萊姆入浴劑 Inst-Sticky 10L
 ===
-[English](prod_inst_sticky10en.md) / Google Translate for [Japanese](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_sticky10.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
+[English](prod_inst_sticky10en.md) / Google Translate for [Japanese](https://raw-githubusercontent-com.translate.goog/mizunogin/testing/master/prod_inst_sticky10.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
 
 感謝你使用 StickySlime 的 Inst-Sticky 入浴劑，不同於普通入浴劑，我們致力於 濕濕、滑滑、黏黏的全新體驗，讓史萊姆放大你的觸覺，不管是 派對嬉戲、伴侶互動、或是獨自感受那滑潤又充滿吸力的觸感，全新的世界等待您的探索！
 
@@ -9,7 +9,7 @@ Inst-Sticky 是一種進階的史萊姆，他會製造出極度黏稠，宛如�
 
 Inst-Sticky 除了帶給你強烈的感官衝擊外，也需要特別留意在清潔上面會變得更黏滑，需要更多時間與精力清潔，建議先用過 Inst-Slime 的經驗之後再來體驗 Inst-Sticky。
 
-[訂購表單](https://forms.gle/Z32i8WMWXdbzqyUWA) / [全家貨到付款](https://famistore.famiport.com.tw/287273/index.php?action=fmall_10755895)
+[訂購表單](https://forms.gle/Z32i8WMWXdbzqyUWA) / [Order here](https://forms.gle/35kck9bTKbRLnpZP8) / [全家貨到付款](https://famistore.famiport.com.tw/287273/index.php?action=fmall_10755895)
 
 關鍵字
 ---

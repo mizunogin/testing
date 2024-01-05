@@ -1,12 +1,13 @@
 StickySlime Inst-Muchi 1L
 ===
-[Chinese](prod_inst_muchi1.md) / Google Translate for [Japanese](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_muchi1.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
+[Chinese](prod_inst_muchi1.md) / Google Translate for [Japanese](https://raw-githubusercontent-com.translate.goog/mizunogin/testing/master/prod_inst_muchi1.md?_x_tr_sl=zh-TW&_x_tr_tl=ja&_x_tr_hl=zh-TW&_x_tr_pto=wapp)
 
 Thanks for choosing StickySlime bath powder. We focus on wet, slippery, sticky, messy feeling, let slimes amplify your sense! Not only suitable for messy party, partner interaction, its also having a great time for solo play!
 Inst-Muchi using food grade material (Xanthan gum) makes slime more body-friendly. We find a new way to make the slimes dissolve fast and easy, without any additives.
 
 Caution: Xanthan gum may contains gluten.
 
+[Order here](https://forms.gle/35kck9bTKbRLnpZP8)
 
 Notice
 ---

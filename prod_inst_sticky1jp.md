@@ -1,6 +1,6 @@
 StickySlime Inst-Sticky 入浴剤お試し 1L
 ===
-Google Translate for [English](https://github-com.translate.goog/mizunogin/testing/blob/master/prod_inst_sticky1.md?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=zh-TW&_x_tr_pto=wapp) / [Chinese](prod_inst_sticky1.md)
+Google Translate for [English](https://raw-githubusercontent-com.translate.goog/mizunogin/testing/master/prod_inst_sticky1.md?_x_tr_sl=zh-TW&_x_tr_tl=en&_x_tr_hl=zh-TW&_x_tr_pto=wapp) / [Chinese](prod_inst_sticky1.md)
 
 StickySlimeのInst-Sticky入浴剤をご利用いただきありがとうございます。通常の入浴剤とは異なり、私たちは湿った、すべる、くっつくといった全く新しい体験を提供することに力を注いでいます。スライムがあなたの触感を最大限に引き立て、パーティーの遊び、パートナーとの交流、または一人で感じるなめらかで引き寄せるような触感、これら新しい世界があなたの探求を待っています！
 
@@ -9,6 +9,8 @@ Inst-Stickyは非常に粘りつく、まるでネズミ取りのような強力
 同時に水を加えると、すぐに滑らかになり、二つの楽しみ方ができます！もしもっとすべりたい遊び方がお好きな場合は、1袋のInst-Stickyを2〜3Lの水と混ぜて使用することをお勧めします。特に潤滑液レスリングなどの水上アクティビティに適しています。
 
 Inst-Stickyは強烈な感覚刺激をもたらすだけでなく、清掃がより粘りつくことに特に注意が必要です。クリーニングにはより多くの時間とエネルギーが必要になるかもしれませんので、Inst-Slimeの経験を積んでからInst-Stickyをお試しいただくことをお勧めします。
+
+[ご注文](https://forms.gle/35kck9bTKbRLnpZP8)
 
 注意事項 
 ---
