@@ -3,6 +3,57 @@
 
 史萊姆也可以很輕鬆的！這裏列出你會需要知道的小知識，讓你可以更輕鬆快速的把自己洗乾淨，維持環境清潔
 
+## 個人清潔指南 
+
+- 預先準備：毛巾、沐浴球、洗髮乳、沐浴乳或肥皂、換洗衣物
+- 若為金銀粉，建議多準備一些 廢毛巾衣物、拋棄式毛巾、廚房紙巾，以及幾個垃圾袋
+- 洗澡時間：一般來說是10-60min
+
+### 若為史萊姆
+將蓮蓬頭架好，空出你的手，水溫開至舒適的溫度，持續沖身體
+用點力，先用手刮除黏在身上的大塊史萊姆與黏液
+沐浴球加上沐浴乳略微揉搓後，刷洗全身
+當沐浴球變得黏糊時，沖水揉搓將黏液洗去後即可
+
+### 若是金銀粉
+清洗前，先拿廚房紙巾、廢毛巾等盡量把身上的油脂擦掉丟棄，這可以讓你的清洗輕鬆很多
+沾濕身體後，請大量使用洗髮乳搭配沐浴球搓洗全身，把油脂洗掉，這可能要重複一兩次
+使用沐浴乳再次搓洗，照鏡子重點揉搓，將留在皮膚縫細中的金銀粉洗掉
+
+## 洗完澡請務必檢查：
+- 眉毛、下巴、鼻子兩側
+- 頭髮與鬢角
+- 手肘、手臂外側
+- 腋下內側
+- 背後
+- 胯下內側
+- 膝蓋後方
+- 腳踝後方
+
+最後請大略把地上的史萊姆與黏液沖一下，避免下一位滑倒
+
+## Personal Clear guide
+- Prepare: towel, Bath sponge, shampoo, body wash or soap
+- Time: 10-60 minutes
+
+### Slime / Sticky:
+Set up the showerhead, freeing up your hands. Adjust the water temperature to a comfortable level and let it flow over your body continuously.
+Apply some force and use your hands to remove large chunks of slime from your body.
+Combine a bath sponge with body wash, rub it slightly, and scrub your entire body.
+When the bath sponge becomes sticky, rinse and rub to wash away the slime.
+
+## After bathing, please check:
+- Eyebrows, chin, both sides of the nose
+- Hair and temples
+- Elbows, outer arms
+- Inside of the armpits
+- Back
+- Inside of the groin
+- Back of the knees
+- Back of the ankles
+
+Finally, rinse the slime and mucus on the floor briefly to avoid slipping for the next person.
+
 ## 清潔難度比較
 
 黏液繭 < Inst-Muchi < Inst-Slime < Inst-Sticky < 黏鼠膠
