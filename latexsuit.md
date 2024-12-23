@@ -1,10 +1,5 @@
 乳膠衣 / latexsuit
 ===
 
-- [pixiv: 立早（リザオ）](https://www.pixiv.net/users/1695157)
-- [pixiv: なか](https://www.pixiv.net/users/34654)
-
-購買
----
-- [latexcatfish](http://www.latexcatfish.com/xcart/home.php)是相對便宜的中國廠商適合入門
-- [Esty](https://www.etsy.com/market/latex_suit)上也有不少選項。
+2024/12 StickySlime LatexCatsuit 乳膠衣入門講座
+[https://drive.google.com/file/d/1YDHEU9yYmvJN_rADKQCJWc67_RAjhw72/view?usp=drive_link](https://drive.google.com/file/d/1YDHEU9yYmvJN_rADKQCJWc67_RAjhw72/view?usp=drive_link)
