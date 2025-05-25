@@ -14,11 +14,12 @@
 ![](imgs/vorecafe/06.png)
 ![](imgs/vorecafe/07.png)
 
-如果有興趣自己做一隻鯨魚，請參考渡貍的[這篇](inflatable_whale.md)，也有美國訂做的[商店](https://www.etsy.com/listing/797731277/3-meter-inflatable-pvc-whale-suit-made?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=inflatable+whale+suit&ref=sr_gallery-1-2&organic_search_click=1&cns=1)
+如果有興趣自己做一隻鯨魚，請參考渡貍的[這篇](inflatable_whale.md)，淘寶的[仟之k的手工坊](https://item.taobao.com/item.htm?id=726817081023&spm=a21xtw.29178619.product_shelf.3.19ae5afbpQtRtL&skuId=5216853043164)也有推出兩公尺長的吞人鯨魚
 
+或者來我們[StickySlime Studio](https://stickysli.me)預約體驗
 
 ## tags
-
+vore, 丸呑み, 胎内回帰 unbirth, 捕食, 触手, 吸收
 
 ## 資源
 

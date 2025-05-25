@@ -10,7 +10,7 @@
 感受著腹部的卵的騷動，這樣的念頭難以平息...
 
 這會是一個需要夥伴協助的玩法，要擺下200L大桶子也需要一點空間，對一般人來說實踐的難度比較高。
-如果有興趣的話，可以[與我們聯絡](http://stickysli.me/index.html#contact)預約體驗
+如果有興趣的話，可以詢問 [StickySlime studio](https://stickysli.me/)
 
 ## Tags
 
