@@ -54,7 +54,7 @@ Github是一個開放式的環境，對於有錯誤或需要討論的地方，�
 
 性取向
 ---
-關於無性戀 <asexuality.md>
+[關於無性戀](asexuality.md)
 
 
 安全
