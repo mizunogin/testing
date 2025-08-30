@@ -14,6 +14,9 @@ https://www.deviantart.com/strangehobbies/art/Foam-Encasement-1-292041599
 ![](imgs/polyurethane_foam06.jpg)
 ![](imgs/polyurethane_foam07.jpg)
 
+強者我朋友做的「發泡膠石膏水泥拘束」
+![](imgs/polyurethane_foam_t00.jpg)
+
 ## 媒體
 
 ## 風險：
